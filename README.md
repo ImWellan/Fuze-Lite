@@ -1,11 +1,11 @@
-# Fuse Player V1.0.0
+# Fuze Player V1.0.0
 
-Fuse Player by ImWeLLaN is a self-contained Windows media player built around
-libmpv. It is designed first for reliable playback and a configurable Fuse
+Fuze Player by ImWeLLaN is a self-contained Windows media player built around
+libmpv. It is designed first for reliable playback and a configurable Fuze
 interface.
 
-Project: https://github.com/ImWellan/Fuse-Player  
-Issues and feature requests: https://github.com/ImWellan/Fuse-Player/issues
+Project: https://github.com/ImWellan/Fuze-Player  
+Issues and feature requests: https://github.com/ImWellan/Fuze-Player/issues
 
 ## Start
 
@@ -22,9 +22,9 @@ Open `Fuze.exe`. The release is self-contained and uses the bundled native
 - show media and track information and save screenshots;
 - use full-screen playback on the selected display while preserving window state.
 
-Fuse is a playback application first. Future additions such as simple video
+Fuze is a playback application first. Future additions such as simple video
 trimming, richer playback tracking and other useful player features must not
-interfere with playback and are not intended to turn Fuse into a recording or
+interfere with playback and are not intended to turn Fuze into a recording or
 conversion application.
 
 ## Native playback provenance
@@ -39,20 +39,20 @@ The bundled DLL was produced by the native Windows build on 2026-08-31:
 
 The matching FFmpeg configure report states `License: GPL version 3 or later`.
 The exact source trees, dependency inventory and build records are in the
-companion `Fuse Player Code V1.0.0` package.
+companion `Fuze Player Code V1.0.0` package.
 
 ## Source and notices
 
 Keep this runtime package with the companion Code package, or publish that
 package at a stable public URL, whenever distributing `Fuze.exe`. It contains
-the corresponding Fuse, mpv, FFmpeg and dependency sources, build patches and
+the corresponding Fuze, mpv, FFmpeg and dependency sources, build patches and
 license notices. The complete license texts and third-party notices are
 provided in that companion Code package. Download it from:
-https://github.com/ImWellan/Fuse-Player/releases/latest
+https://github.com/ImWellan/Fuze-Player/releases/latest
 
 ## License and copyright
 
-Fuse Player source code and project documentation are copyright (c) 2026
+Fuze Player source code and project documentation are copyright (c) 2026
 ImWeLLaN and are released under the GNU General Public License version 2 or
 any later version. See `LICENSE.txt` and `COPYING.txt` in the companion Code
 package.
