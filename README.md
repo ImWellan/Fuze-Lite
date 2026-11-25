@@ -1,11 +1,13 @@
-# Fuze Player V1.0.0
+# Fuze Lite 1.0.0
 
-Fuze Player by ImWeLLaN is a self-contained Windows media player built around
+Fuze Lite by ImWeLLaN is a self-contained Windows media player built around
 libmpv. It is designed first for reliable playback and a configurable Fuze
 interface.
 
-Project: https://github.com/ImWellan/Fuze-Player  
-Issues and feature requests: https://github.com/ImWellan/Fuze-Player/issues
+This is the original edition. The current Windows edition is [Fuze](https://github.com/ImWellan/Fuze).
+
+Project: https://github.com/ImWellan/Fuze-Lite  
+Issues and feature requests: https://github.com/ImWellan/Fuze-Lite/issues
 
 ## Start
 
@@ -48,7 +50,7 @@ package at a stable public URL, whenever distributing `Fuze.exe`. It contains
 the corresponding Fuze, mpv, FFmpeg and dependency sources, build patches and
 license notices. The complete license texts and third-party notices are
 provided in that companion Code package. Download it from:
-https://github.com/ImWellan/Fuze-Player/releases/latest
+https://github.com/ImWellan/Fuze-Lite/releases/latest
 
 ## License and copyright
 
